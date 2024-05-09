@@ -4,4 +4,4 @@
 
 1.1  SMSS
 
-1.2  SMSS for all maximum scores (overlapping)
+1.2  MSS for all maximum scores (overlapping)
